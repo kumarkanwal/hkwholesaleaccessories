@@ -1056,16 +1056,64 @@ window.HK_PRODUCTS = [
     "featured": true
   },
   {
+    "id": "filters-tips-ranch-extra-long-supa-slims",
+    "name": "Ranch Extra Long Supa Slims",
+    "brand": "Ranch",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-089",
+    "image": "assets/images/products/filters-tips/ranch-extra-long-supa-slims.webp",
+    "description": "Ranch Extra Long Supa Slims is presented for approved wholesale filter and tip enquiries.",
+    "featured": true
+  },
+  {
+    "id": "filters-tips-ranch-micro-slims",
+    "name": "Ranch Micro Slims",
+    "brand": "Ranch",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-090",
+    "image": "assets/images/products/filters-tips/ranch-micro-slims.webp",
+    "description": "Ranch Micro Slims is presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-ranch-slims",
+    "name": "Ranch Slims",
+    "brand": "Ranch",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-091",
+    "image": "assets/images/products/filters-tips/ranch-slims.webp",
+    "description": "Ranch Slims is presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-ranch-supa-slims",
+    "name": "Ranch Supa Slims",
+    "brand": "Ranch",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-092",
+    "image": "assets/images/products/filters-tips/ranch-supa-slims.webp",
+    "description": "Ranch Supa Slims is presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
     "id": "filters-tips-raw-classic-1-1-4-pre-rolled-tips",
     "name": "RAW Classic Pre Rolled Tips",
     "brand": "RAW",
     "category": "filters-tips",
     "categoryLabel": "Filters & Tips",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-089",
+    "sku": "CAT-093",
     "image": "assets/images/products/filters-tips/raw-classic-1-1-4-pre-rolled-tips.webp",
     "description": "RAW Classic Pre Rolled Tips is presented for approved wholesale filter and tip enquiries.",
-    "featured": true
+    "featured": false
   },
   {
     "id": "filters-tips-raw-classic-kingsize-slim-pre-rolled-tips",
@@ -1074,9 +1122,81 @@ window.HK_PRODUCTS = [
     "category": "filters-tips",
     "categoryLabel": "Filters & Tips",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-090",
+    "sku": "CAT-094",
     "image": "assets/images/products/filters-tips/raw-classic-kingsize-slim-pre-rolled-tips.webp",
     "description": "RAW Classic Kingsize Slim Pre Rolled Tips is presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-ventti-extra-long-micro-slim-filter-tips",
+    "name": "Ventti Extra Long Micro Slim Filter Tips",
+    "brand": "Ventti",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-095",
+    "image": "assets/images/products/filters-tips/ventti-extra-long-micro-slim-filter-tips.webp",
+    "description": "Ventti Extra Long Micro Slim Filter Tips is presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-ventti-micro-slim-filter-tips",
+    "name": "Ventti Micro Slim Filter Tips",
+    "brand": "Ventti",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-096",
+    "image": "assets/images/products/filters-tips/ventti-micro-slim-filter-tips.webp",
+    "description": "Ventti Micro Slim Filter Tips is presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-ventti-regular-filter-tips-old-packaging",
+    "name": "Ventti Regular Filter Tips Old Packaging",
+    "brand": "Ventti",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale display",
+    "sku": "CAT-097",
+    "image": "assets/images/products/filters-tips/ventti-regular-filter-tips-old-packaging.webp",
+    "description": "Ventti Regular Filter Tips Old Packaging is presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-ventti-regular-filter-tips",
+    "name": "Ventti Regular Filter Tips",
+    "brand": "Ventti",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-098",
+    "image": "assets/images/products/filters-tips/ventti-regular-filter-tips.webp",
+    "description": "Ventti Regular Filter Tips is presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-ventti-super-slim-filter-tips",
+    "name": "Ventti Super Slim Filter Tips",
+    "brand": "Ventti",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-099",
+    "image": "assets/images/products/filters-tips/ventti-super-slim-filter-tips.webp",
+    "description": "Ventti Super Slim Filter Tips is presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-ventti-yellow-slim-filters",
+    "name": "Ventti Yellow Slim Filters",
+    "brand": "Ventti",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-100",
+    "image": "assets/images/products/filters-tips/ventti-yellow-slim-filters.webp",
+    "description": "Ventti Yellow Slim Filters is presented for approved wholesale filter and tip enquiries.",
     "featured": false
   }
 ];
