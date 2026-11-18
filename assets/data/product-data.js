@@ -8,7 +8,7 @@ window.HK_PRODUCTS = [
     "packSize": "Wholesale display",
     "sku": "CAT-001",
     "image": "assets/images/products/bic-ez-reach-2pk-display.png",
-    "description": "BIC EZ Reach Display is presented for approved wholesale trade enquiries.",
+    "description": "BIC EZ Reach Display is presented for approved wholesale lighter enquiries.",
     "featured": true
   },
   {
@@ -20,7 +20,7 @@ window.HK_PRODUCTS = [
     "packSize": "Wholesale display",
     "sku": "CAT-002",
     "image": "assets/images/products/bic-ez-reach-lighter-display.png",
-    "description": "BIC EZ Reach Lighter Display is presented for approved wholesale trade enquiries.",
+    "description": "BIC EZ Reach Lighter Display is presented for approved wholesale lighter enquiries.",
     "featured": true
   },
   {
@@ -32,7 +32,7 @@ window.HK_PRODUCTS = [
     "packSize": "Wholesale display",
     "sku": "CAT-003",
     "image": "assets/images/products/bic-ez-reach-lighter-tray.png",
-    "description": "BIC EZ Reach Lighter Tray is presented for approved wholesale trade enquiries.",
+    "description": "BIC EZ Reach Lighter Tray is presented for approved wholesale lighter enquiries.",
     "featured": true
   },
   {
@@ -44,7 +44,7 @@ window.HK_PRODUCTS = [
     "packSize": "Wholesale display",
     "sku": "CAT-004",
     "image": "assets/images/products/bic-j25-mini-lighter-4-pack-display.png",
-    "description": "BIC J Mini Lighter Pack Display is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Mini Lighter Pack Display is presented for approved wholesale lighter enquiries.",
     "featured": true
   },
   {
@@ -56,8 +56,8 @@ window.HK_PRODUCTS = [
     "packSize": "Wholesale display",
     "sku": "CAT-005",
     "image": "assets/images/products/bic-j25-mini-lighter-box.png",
-    "description": "BIC J Mini Lighter Box is presented for approved wholesale trade enquiries.",
-    "featured": true
+    "description": "BIC J Mini Lighter Box is presented for approved wholesale lighter enquiries.",
+    "featured": false
   },
   {
     "id": "bic-j25-mini-lighter-tray",
@@ -68,8 +68,8 @@ window.HK_PRODUCTS = [
     "packSize": "Wholesale display",
     "sku": "CAT-006",
     "image": "assets/images/products/bic-j25-mini-lighter-tray.png",
-    "description": "BIC J Mini Lighter Tray is presented for approved wholesale trade enquiries.",
-    "featured": true
+    "description": "BIC J Mini Lighter Tray is presented for approved wholesale lighter enquiries.",
+    "featured": false
   },
   {
     "id": "bic-j26-maxi-lighter-3pk-display",
@@ -80,8 +80,8 @@ window.HK_PRODUCTS = [
     "packSize": "Wholesale display",
     "sku": "CAT-007",
     "image": "assets/images/products/bic-j26-maxi-lighter-3pk-display.png",
-    "description": "BIC J Maxi Lighter Display is presented for approved wholesale trade enquiries.",
-    "featured": true
+    "description": "BIC J Maxi Lighter Display is presented for approved wholesale lighter enquiries.",
+    "featured": false
   },
   {
     "id": "bic-j26-maxi-lighter-animals",
@@ -92,8 +92,32 @@ window.HK_PRODUCTS = [
     "packSize": "Wholesale catalogue item",
     "sku": "CAT-008",
     "image": "assets/images/products/bic-j26-maxi-lighter-animals.webp",
-    "description": "BIC J Maxi Lighter Animals is presented for approved wholesale trade enquiries.",
-    "featured": true
+    "description": "BIC J Maxi Lighter Animals is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bic-j26-maxi-lighter-black-and-beige",
+    "name": "BIC J Maxi Lighter Black And Beige",
+    "brand": "BIC",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-009",
+    "image": "assets/images/products/bic-j26-maxi-lighter-black-and-beige.webp",
+    "description": "BIC J Maxi Lighter Black And Beige is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bic-j26-maxi-lighter-bodybuilding",
+    "name": "BIC J Maxi Lighter Bodybuilding",
+    "brand": "BIC",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-010",
+    "image": "assets/images/products/bic-j26-maxi-lighter-bodybuilding.webp",
+    "description": "BIC J Maxi Lighter Bodybuilding is presented for approved wholesale lighter enquiries.",
+    "featured": false
   },
   {
     "id": "bic-j26-maxi-lighter-box",
@@ -102,9 +126,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale display",
-    "sku": "CAT-009",
+    "sku": "CAT-011",
     "image": "assets/images/products/bic-j26-maxi-lighter-box.png",
-    "description": "BIC J Maxi Lighter Box is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Box is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -114,9 +138,21 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-010",
+    "sku": "CAT-012",
     "image": "assets/images/products/bic-j26-maxi-lighter-competition.webp",
-    "description": "BIC J Maxi Lighter Competition is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Competition is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bic-j26-maxi-lighter-cute",
+    "name": "BIC J Maxi Lighter Cute",
+    "brand": "BIC",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-013",
+    "image": "assets/images/products/bic-j26-maxi-lighter-cute.webp",
+    "description": "BIC J Maxi Lighter Cute is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -126,9 +162,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-011",
+    "sku": "CAT-014",
     "image": "assets/images/products/bic-j26-maxi-lighter-equipment.webp",
-    "description": "BIC J Maxi Lighter Equipment is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Equipment is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -138,9 +174,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-012",
+    "sku": "CAT-015",
     "image": "assets/images/products/bic-j26-maxi-lighter-fairy.webp",
-    "description": "BIC J Maxi Lighter Fairy is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Fairy is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -150,9 +186,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-013",
+    "sku": "CAT-016",
     "image": "assets/images/products/bic-j26-maxi-lighter-fluro-skulls.webp",
-    "description": "BIC J Maxi Lighter Fluro Skulls is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Fluro Skulls is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -162,9 +198,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-014",
+    "sku": "CAT-017",
     "image": "assets/images/products/bic-j26-maxi-lighter-forest.webp",
-    "description": "BIC J Maxi Lighter Forest is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Forest is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -174,9 +210,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-015",
+    "sku": "CAT-018",
     "image": "assets/images/products/bic-j26-maxi-lighter-gaming.webp",
-    "description": "BIC J Maxi Lighter Gaming is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Gaming is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -186,9 +222,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-016",
+    "sku": "CAT-019",
     "image": "assets/images/products/bic-j26-maxi-lighter-gradient.webp",
-    "description": "BIC J Maxi Lighter Gradient is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Gradient is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -198,9 +234,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-017",
+    "sku": "CAT-020",
     "image": "assets/images/products/bic-j26-maxi-lighter-jungle.webp",
-    "description": "BIC J Maxi Lighter Jungle is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Jungle is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -210,9 +246,21 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-018",
+    "sku": "CAT-021",
     "image": "assets/images/products/bic-j26-maxi-lighter-land.webp",
-    "description": "BIC J Maxi Lighter Land is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Land is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bic-j26-maxi-lighter-love",
+    "name": "BIC J Maxi Lighter Love",
+    "brand": "BIC",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-022",
+    "image": "assets/images/products/bic-j26-maxi-lighter-love.webp",
+    "description": "BIC J Maxi Lighter Love is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -222,9 +270,21 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-019",
+    "sku": "CAT-023",
     "image": "assets/images/products/bic-j26-maxi-lighter-mandala.webp",
-    "description": "BIC J Maxi Lighter Mandala is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Mandala is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bic-j26-maxi-lighter-mask-24",
+    "name": "BIC J Maxi Lighter Mask",
+    "brand": "BIC",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-024",
+    "image": "assets/images/products/bic-j26-maxi-lighter-mask-24.webp",
+    "description": "BIC J Maxi Lighter Mask is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -234,9 +294,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-020",
+    "sku": "CAT-025",
     "image": "assets/images/products/bic-j26-maxi-lighter-mexican-skulls.webp",
-    "description": "BIC J Maxi Lighter Mexican Skulls is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Mexican Skulls is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -246,9 +306,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-021",
+    "sku": "CAT-026",
     "image": "assets/images/products/bic-j26-maxi-lighter-neon-24.webp",
-    "description": "BIC J Maxi Lighter Neon is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Neon is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -258,9 +318,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-022",
+    "sku": "CAT-027",
     "image": "assets/images/products/bic-j26-maxi-lighter-neon-25.webp",
-    "description": "BIC J Maxi Lighter Neon is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Neon is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -270,9 +330,21 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-023",
+    "sku": "CAT-028",
     "image": "assets/images/products/bic-j26-maxi-lighter-neon-sound-23.webp",
-    "description": "BIC J Maxi Lighter Neon Sound is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Neon Sound is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bic-j26-maxi-lighter-origami",
+    "name": "BIC J Maxi Lighter Origami",
+    "brand": "BIC",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-029",
+    "image": "assets/images/products/bic-j26-maxi-lighter-origami.webp",
+    "description": "BIC J Maxi Lighter Origami is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -282,9 +354,21 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-024",
+    "sku": "CAT-030",
     "image": "assets/images/products/bic-j26-maxi-lighter-outdoor-24.webp",
-    "description": "BIC J Maxi Lighter Outdoor is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Outdoor is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bic-j26-maxi-lighter-retro-travel",
+    "name": "BIC J Maxi Lighter Retro Travel",
+    "brand": "BIC",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-031",
+    "image": "assets/images/products/bic-j26-maxi-lighter-retro-travel.webp",
+    "description": "BIC J Maxi Lighter Retro Travel is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -294,9 +378,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-025",
+    "sku": "CAT-032",
     "image": "assets/images/products/bic-j26-maxi-lighter-sailor.webp",
-    "description": "BIC J Maxi Lighter Sailor is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Sailor is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -306,9 +390,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-026",
+    "sku": "CAT-033",
     "image": "assets/images/products/bic-j26-maxi-lighter-sports.webp",
-    "description": "BIC J Maxi Lighter Sports is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Sports is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -318,9 +402,21 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-027",
+    "sku": "CAT-034",
     "image": "assets/images/products/bic-j26-maxi-lighter-street-art.webp",
-    "description": "BIC J Maxi Lighter Street Art is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Street Art is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bic-j26-maxi-lighter-sun-and-moon",
+    "name": "BIC J Maxi Lighter Sun And Moon",
+    "brand": "BIC",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-035",
+    "image": "assets/images/products/bic-j26-maxi-lighter-sun-and-moon.webp",
+    "description": "BIC J Maxi Lighter Sun And Moon is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -330,9 +426,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-028",
+    "sku": "CAT-036",
     "image": "assets/images/products/bic-j26-maxi-lighter-supercar.png",
-    "description": "BIC J Maxi Lighter Supercar is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Supercar is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -342,9 +438,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale display",
-    "sku": "CAT-029",
+    "sku": "CAT-037",
     "image": "assets/images/products/bic-j26-maxi-lighter-tray.png",
-    "description": "BIC J Maxi Lighter Tray is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Tray is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -354,9 +450,81 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-030",
+    "sku": "CAT-038",
     "image": "assets/images/products/bic-j26-maxi-lighter-wireframe.webp",
-    "description": "BIC J Maxi Lighter Wireframe is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Wireframe is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bool-lig12-jet-lighter-12pk",
+    "name": "Bool Lig Jet Lighter",
+    "brand": "Bool",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-039",
+    "image": "assets/images/products/bool-lig12-jet-lighter-12pk.webp",
+    "description": "Bool Lig Jet Lighter is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bool-lig159-jet-lighter-20pk",
+    "name": "Bool Lig Jet Lighter",
+    "brand": "Bool",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-040",
+    "image": "assets/images/products/bool-lig159-jet-lighter-20pk.webp",
+    "description": "Bool Lig Jet Lighter is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bool-lig171-b-16pk",
+    "name": "Bool Lig B",
+    "brand": "Bool",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-041",
+    "image": "assets/images/products/bool-lig171-b-16pk.webp",
+    "description": "Bool Lig B is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bool-lig28-jet-lighter-12pk",
+    "name": "Bool Lig Jet Lighter",
+    "brand": "Bool",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-042",
+    "image": "assets/images/products/bool-lig28-jet-lighter-12pk.webp",
+    "description": "Bool Lig Jet Lighter is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bool-lig6-jet-lighter-20pk",
+    "name": "Bool Lig Jet Lighter",
+    "brand": "Bool",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-043",
+    "image": "assets/images/products/bool-lig6-jet-lighter-20pk.webp",
+    "description": "Bool Lig Jet Lighter is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "bool-lig9-jet-lighter-12pk",
+    "name": "Bool Lig Jet Lighter",
+    "brand": "Bool",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-044",
+    "image": "assets/images/products/bool-lig9-jet-lighter-12pk.webp",
+    "description": "Bool Lig Jet Lighter is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -366,9 +534,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-031",
+    "sku": "CAT-045",
     "image": "assets/images/products/hk_wholesale_next_10_product_images/png/bic-j26-maxi-lighter-competition.png",
-    "description": "BIC J Maxi Lighter Competition is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Competition is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -378,9 +546,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-032",
+    "sku": "CAT-046",
     "image": "assets/images/products/hk_wholesale_next_10_product_images/png/bic-j26-maxi-lighter-equipment.png",
-    "description": "BIC J Maxi Lighter Equipment is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Equipment is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -390,9 +558,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-033",
+    "sku": "CAT-047",
     "image": "assets/images/products/hk_wholesale_next_10_product_images/png/bic-j26-maxi-lighter-fairy.png",
-    "description": "BIC J Maxi Lighter Fairy is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Fairy is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -402,9 +570,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-034",
+    "sku": "CAT-048",
     "image": "assets/images/products/hk_wholesale_next_10_product_images/png/bic-j26-maxi-lighter-fluro-skulls.png",
-    "description": "BIC J Maxi Lighter Fluro Skulls is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Fluro Skulls is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -414,9 +582,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-035",
+    "sku": "CAT-049",
     "image": "assets/images/products/hk_wholesale_next_10_product_images/png/bic-j26-maxi-lighter-jungle.png",
-    "description": "BIC J Maxi Lighter Jungle is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Jungle is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -426,9 +594,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-036",
+    "sku": "CAT-050",
     "image": "assets/images/products/hk_wholesale_next_10_product_images/png/bic-j26-maxi-lighter-mexican-skulls.png",
-    "description": "BIC J Maxi Lighter Mexican Skulls is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Mexican Skulls is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -438,9 +606,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-037",
+    "sku": "CAT-051",
     "image": "assets/images/products/hk_wholesale_next_10_product_images/png/bic-j26-maxi-lighter-neon-24.png",
-    "description": "BIC J Maxi Lighter Neon is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Neon is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -450,9 +618,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-038",
+    "sku": "CAT-052",
     "image": "assets/images/products/hk_wholesale_next_10_product_images/png/bic-j26-maxi-lighter-neon-sound-23.png",
-    "description": "BIC J Maxi Lighter Neon Sound is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Neon Sound is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -462,9 +630,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-039",
+    "sku": "CAT-053",
     "image": "assets/images/products/hk_wholesale_next_10_product_images/png/bic-j26-maxi-lighter-sports.png",
-    "description": "BIC J Maxi Lighter Sports is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Sports is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -474,9 +642,9 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Wholesale catalogue item",
-    "sku": "CAT-040",
+    "sku": "CAT-054",
     "image": "assets/images/products/hk_wholesale_next_10_product_images/png/bic-j26-maxi-lighter-street-art.png",
-    "description": "BIC J Maxi Lighter Street Art is presented for approved wholesale trade enquiries.",
+    "description": "BIC J Maxi Lighter Street Art is presented for approved wholesale lighter enquiries.",
     "featured": false
   },
   {
@@ -486,9 +654,321 @@ window.HK_PRODUCTS = [
     "category": "lighters",
     "categoryLabel": "Lighters",
     "packSize": "Catalogue preview",
-    "sku": "CAT-041",
+    "sku": "CAT-055",
     "image": "assets/images/products/hk_wholesale_next_10_product_images/preview_contact_sheet.jpg",
-    "description": "Preview Contact Sheet is presented for approved wholesale trade enquiries.",
+    "description": "Preview Contact Sheet is presented for approved wholesale lighter enquiries.",
+    "featured": false
+  },
+  {
+    "id": "ocb-double",
+    "name": "OCB Double",
+    "brand": "OCB",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-056",
+    "image": "assets/images/products/ocb-double.webp",
+    "description": "OCB Double is presented for approved wholesale rolling paper enquiries.",
+    "featured": true
+  },
+  {
+    "id": "ocb-premium-69mm",
+    "name": "OCB Premium Mm",
+    "brand": "OCB",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-057",
+    "image": "assets/images/products/ocb-premium-69mm.webp",
+    "description": "OCB Premium Mm is presented for approved wholesale rolling paper enquiries.",
+    "featured": true
+  },
+  {
+    "id": "ocb-premium-king-size-slim",
+    "name": "OCB Premium King Size Slim",
+    "brand": "OCB",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-058",
+    "image": "assets/images/products/ocb-premium-king-size-slim.webp",
+    "description": "OCB Premium King Size Slim is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "ocb-slim-filters",
+    "name": "OCB Slim Filters",
+    "brand": "OCB",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-059",
+    "image": "assets/images/products/ocb-slim-filters.webp",
+    "description": "OCB Slim Filters is presented for approved wholesale filter and tip enquiries.",
+    "featured": true
+  },
+  {
+    "id": "raw-classic-1-1-4-pre-rolled-tips",
+    "name": "RAW Classic Pre Rolled Tips",
+    "brand": "RAW",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-060",
+    "image": "assets/images/products/raw-classic-1-1-4-pre-rolled-tips.webp",
+    "description": "RAW Classic Pre Rolled Tips is presented for approved wholesale filter and tip enquiries.",
+    "featured": true
+  },
+  {
+    "id": "raw-classic-1-1-4-tips",
+    "name": "RAW Classic Tips",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-061",
+    "image": "assets/images/products/raw-classic-1-1-4-tips.webp",
+    "description": "RAW Classic Tips is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-classic-1-1-4",
+    "name": "RAW Classic",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-062",
+    "image": "assets/images/products/raw-classic-1-1-4.webp",
+    "description": "RAW Classic is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-classic-artesano-1-1-4",
+    "name": "RAW Classic Artesano",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-063",
+    "image": "assets/images/products/raw-classic-artesano-1-1-4.webp",
+    "description": "RAW Classic Artesano is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-classic-artesano-kingsize-slim",
+    "name": "RAW Classic Artesano Kingsize Slim",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-064",
+    "image": "assets/images/products/raw-classic-artesano-kingsize-slim.webp",
+    "description": "RAW Classic Artesano Kingsize Slim is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-classic-king-size-slim",
+    "name": "RAW Classic King Size Slim",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-065",
+    "image": "assets/images/products/raw-classic-king-size-slim.webp",
+    "description": "RAW Classic King Size Slim is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-classic-kingsize-slim-pre-rolled-tips",
+    "name": "RAW Classic Kingsize Slim Pre Rolled Tips",
+    "brand": "RAW",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-066",
+    "image": "assets/images/products/raw-classic-kingsize-slim-pre-rolled-tips.webp",
+    "description": "RAW Classic Kingsize Slim Pre Rolled Tips is presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-classic-kingsize-slim-tips",
+    "name": "RAW Classic Kingsize Slim Tips",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-067",
+    "image": "assets/images/products/raw-classic-kingsize-slim-tips.webp",
+    "description": "RAW Classic Kingsize Slim Tips is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-classic-single-wide-double",
+    "name": "RAW Classic Single Wide Double",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-068",
+    "image": "assets/images/products/raw-classic-single-wide-double.webp",
+    "description": "RAW Classic Single Wide Double is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-classic-single-wide",
+    "name": "RAW Classic Single Wide",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-069",
+    "image": "assets/images/products/raw-classic-single-wide.webp",
+    "description": "RAW Classic Single Wide is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-organic-hemp-1-1-4-tips",
+    "name": "RAW Organic Hemp Tips",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-070",
+    "image": "assets/images/products/raw-organic-hemp-1-1-4-tips.webp",
+    "description": "RAW Organic Hemp Tips is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-organic-hemp-1-1-4",
+    "name": "RAW Organic Hemp",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-071",
+    "image": "assets/images/products/raw-organic-hemp-1-1-4.webp",
+    "description": "RAW Organic Hemp is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-organic-hemp-kingsize-slim",
+    "name": "RAW Organic Hemp Kingsize Slim",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-072",
+    "image": "assets/images/products/raw-organic-hemp-kingsize-slim.webp",
+    "description": "RAW Organic Hemp Kingsize Slim is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-organic-hemp-kingsize-tips",
+    "name": "RAW Organic Hemp Kingsize Tips",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-073",
+    "image": "assets/images/products/raw-organic-hemp-kingsize-tips.webp",
+    "description": "RAW Organic Hemp Kingsize Tips is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "raw-organic-hemp-single-wide",
+    "name": "RAW Organic Hemp Single Wide",
+    "brand": "RAW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-074",
+    "image": "assets/images/products/raw-organic-hemp-single-wide.webp",
+    "description": "RAW Organic Hemp Single Wide is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "rsw-black-1-1-4",
+    "name": "RSW Black",
+    "brand": "RSW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-075",
+    "image": "assets/images/products/rsw-black-1-1-4.webp",
+    "description": "RSW Black is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "rsw-black-connoisseur-1-1-4-tips",
+    "name": "RSW Black Connoisseur Tips",
+    "brand": "RSW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-076",
+    "image": "assets/images/products/rsw-black-connoisseur-1-1-4-tips.webp",
+    "description": "RSW Black Connoisseur Tips is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "rsw-black-kingsize-slim",
+    "name": "RSW Black Kingsize Slim",
+    "brand": "RSW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-077",
+    "image": "assets/images/products/rsw-black-kingsize-slim.webp",
+    "description": "RSW Black Kingsize Slim is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "rsw-black-single-wide",
+    "name": "RSW Black Single Wide",
+    "brand": "RSW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-078",
+    "image": "assets/images/products/rsw-black-single-wide.webp",
+    "description": "RSW Black Single Wide is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "rsw-classic-black-kingsize-slim-tips",
+    "name": "RSW Classic Black Kingsize Slim Tips",
+    "brand": "RSW",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-079",
+    "image": "assets/images/products/rsw-classic-black-kingsize-slim-tips.webp",
+    "description": "RSW Classic Black Kingsize Slim Tips is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "ventti-paper-multi-pack",
+    "name": "Ventti Paper Multi Pack",
+    "brand": "Ventti",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale display",
+    "sku": "CAT-080",
+    "image": "assets/images/products/ventti-paper-multi-pack.webp",
+    "description": "Ventti Paper Multi Pack is presented for approved wholesale rolling paper enquiries.",
+    "featured": false
+  },
+  {
+    "id": "ventti-single-100s",
+    "name": "Ventti Single S",
+    "brand": "Ventti",
+    "category": "rolling-papers",
+    "categoryLabel": "Rolling Papers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-081",
+    "image": "assets/images/products/ventti-single-100s.webp",
+    "description": "Ventti Single S is presented for approved wholesale rolling paper enquiries.",
     "featured": false
   }
 ];
