@@ -33,7 +33,7 @@ window.HK_PRODUCTS = [
     "sku": "CAT-003",
     "image": "assets/images/products/lighters/bic-ez-reach-lighter-tray.png",
     "description": "BIC EZ Reach Lighter Tray is presented for approved wholesale lighter enquiries.",
-    "featured": true
+    "featured": false
   },
   {
     "id": "lighters-bic-j25-mini-lighter-4-pack-display",
@@ -45,7 +45,7 @@ window.HK_PRODUCTS = [
     "sku": "CAT-004",
     "image": "assets/images/products/lighters/bic-j25-mini-lighter-4-pack-display.png",
     "description": "BIC J Mini Lighter Pack Display is presented for approved wholesale lighter enquiries.",
-    "featured": true
+    "featured": false
   },
   {
     "id": "lighters-bic-j25-mini-lighter-box",
@@ -1065,7 +1065,7 @@ window.HK_PRODUCTS = [
     "sku": "CAT-089",
     "image": "assets/images/products/filters-tips/ranch-extra-long-supa-slims.webp",
     "description": "Ranch Extra Long Supa Slims is presented for approved wholesale filter and tip enquiries.",
-    "featured": true
+    "featured": false
   },
   {
     "id": "filters-tips-ranch-micro-slims",
@@ -1198,5 +1198,294 @@ window.HK_PRODUCTS = [
     "image": "assets/images/products/filters-tips/ventti-yellow-slim-filters.webp",
     "description": "Ventti Yellow Slim Filters is presented for approved wholesale filter and tip enquiries.",
     "featured": false
+  },
+  {
+    "id": "filters-tips-ranch-nano-slims",
+    "name": "Ranch Nano Slims",
+    "brand": "Ranch",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-101",
+    "image": "assets/images/products/filters-tips/ranch-nano-slims.webp",
+    "description": "Ranch Nano Slims are presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-raw-black-tips",
+    "name": "RAW Black Tips",
+    "brand": "RAW",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-102",
+    "image": "assets/images/products/filters-tips/raw-black-tips.webp",
+    "description": "RAW Black Tips are presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-raw-original-tips",
+    "name": "RAW Original Tips",
+    "brand": "RAW",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-103",
+    "image": "assets/images/products/filters-tips/raw-original-tips.webp",
+    "description": "RAW Original Tips are presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-raw-perfecto-cone-tips",
+    "name": "RAW Perfecto Cone Tips",
+    "brand": "RAW",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-104",
+    "image": "assets/images/products/filters-tips/raw-perfecto-cone-tips.webp",
+    "description": "RAW Perfecto Cone Tips are presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-raw-perforated-gummed-tips",
+    "name": "RAW Perforated Gummed Tips",
+    "brand": "RAW",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-105",
+    "image": "assets/images/products/filters-tips/raw-perforated-gummed-tips.webp",
+    "description": "RAW Perforated Gummed Tips are presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-raw-perforated-wide-tips",
+    "name": "RAW Perforated Wide Tips",
+    "brand": "RAW",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-106",
+    "image": "assets/images/products/filters-tips/raw-perforated-wide-tips.webp",
+    "description": "RAW Perforated Wide Tips are presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-raw-pre-rolled-tips-bag",
+    "name": "RAW Pre-Rolled Tips Bag",
+    "brand": "RAW",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-107",
+    "image": "assets/images/products/filters-tips/raw-pre-rolled-tips-bag-200.webp",
+    "description": "RAW Pre-Rolled Tips Bag is presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-raw-pre-rolled-tips-tin",
+    "name": "RAW Pre-Rolled Tips Tin",
+    "brand": "RAW",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-108",
+    "image": "assets/images/products/filters-tips/raw-pre-rolled-tips-tin.webp",
+    "description": "RAW Pre-Rolled Tips Tin is presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-raw-pre-rolled-tips",
+    "name": "RAW Pre-Rolled Tips",
+    "brand": "RAW",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-109",
+    "image": "assets/images/products/filters-tips/raw-pre-rolled-tips.webp",
+    "description": "RAW Pre-Rolled Tips are presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-smoking-filters",
+    "name": "Smoking Filters",
+    "brand": "Smoking",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-110",
+    "image": "assets/images/products/filters-tips/smoking-filters-120pk.webp",
+    "description": "Smoking Filters are presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-tiptops-cigarette-filters-slims",
+    "name": "TipTops Cigarette Filters Slims",
+    "brand": "TipTops",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-111",
+    "image": "assets/images/products/filters-tips/tiptops-cigarette-filters-slims.webp",
+    "description": "TipTops Cigarette Filters Slims are presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "filters-tips-tiptops-cigarette-filters-super-slims",
+    "name": "TipTops Cigarette Filters Super Slims",
+    "brand": "TipTops",
+    "category": "filters-tips",
+    "categoryLabel": "Filters & Tips",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-112",
+    "image": "assets/images/products/filters-tips/tiptops-cigarette-filters-super-slims.webp",
+    "description": "TipTops Cigarette Filters Super Slims are presented for approved wholesale filter and tip enquiries.",
+    "featured": false
+  },
+  {
+    "id": "cream-chargers-aluminium-cream-whipper",
+    "name": "Aluminium Cream Whipper",
+    "brand": "Generic",
+    "category": "cream-chargers",
+    "categoryLabel": "Cream Chargers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-113",
+    "image": "assets/images/products/cream-chargers/aluminium-cream-whipper.webp",
+    "description": "Aluminium Cream Whipper is presented for approved wholesale culinary product enquiries.",
+    "featured": true
+  },
+  {
+    "id": "cream-chargers-mosa-small-pack",
+    "name": "Mosa Cream Chargers Small Pack",
+    "brand": "Mosa",
+    "category": "cream-chargers",
+    "categoryLabel": "Cream Chargers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-114",
+    "image": "assets/images/products/cream-chargers/mosa-10-pack-cream-chargers.webp",
+    "description": "Mosa Cream Chargers Small Pack is presented for approved wholesale culinary product enquiries.",
+    "featured": false
+  },
+  {
+    "id": "cream-chargers-mosa-standard-pack",
+    "name": "Mosa Cream Chargers Standard Pack",
+    "brand": "Mosa",
+    "category": "cream-chargers",
+    "categoryLabel": "Cream Chargers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-115",
+    "image": "assets/images/products/cream-chargers/mosa-24-pack-cream-chargers.webp",
+    "description": "Mosa Cream Chargers Standard Pack is presented for approved wholesale culinary product enquiries.",
+    "featured": false
+  },
+  {
+    "id": "cream-chargers-mosa-bulk-pack",
+    "name": "Mosa Cream Chargers Bulk Pack",
+    "brand": "Mosa",
+    "category": "cream-chargers",
+    "categoryLabel": "Cream Chargers",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-116",
+    "image": "assets/images/products/cream-chargers/mosa-50-pack-cream-chargers.webp",
+    "description": "Mosa Cream Chargers Bulk Pack is presented for approved wholesale culinary product enquiries.",
+    "featured": false
+  },
+  {
+    "id": "gas-fluids-clipper-gas",
+    "name": "Clipper Gas",
+    "brand": "Clipper",
+    "category": "gas-fluids",
+    "categoryLabel": "Gas & Fluids",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-117",
+    "image": "assets/images/products/gas-fluids/clipper-gas-24pk.webp",
+    "description": "Clipper Gas is presented for approved wholesale gas and fluid enquiries.",
+    "featured": true
+  },
+  {
+    "id": "gas-fluids-dark-horse-gas-refill",
+    "name": "Dark Horse Gas Refill",
+    "brand": "Dark Horse",
+    "category": "gas-fluids",
+    "categoryLabel": "Gas & Fluids",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-118",
+    "image": "assets/images/products/gas-fluids/dark-horse-gas-refill-300ml-24-pack.webp",
+    "description": "Dark Horse Gas Refill is presented for approved wholesale gas and fluid enquiries.",
+    "featured": false
+  },
+  {
+    "id": "gas-fluids-litt-universal-gas",
+    "name": "Litt Universal Gas",
+    "brand": "Litt",
+    "category": "gas-fluids",
+    "categoryLabel": "Gas & Fluids",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-119",
+    "image": "assets/images/products/gas-fluids/litt-universal-gas-24pk.webp",
+    "description": "Litt Universal Gas is presented for approved wholesale gas and fluid enquiries.",
+    "featured": false
+  },
+  {
+    "id": "gas-fluids-ventti-universal-gas-refill",
+    "name": "Ventti Universal Gas Refill",
+    "brand": "Ventti",
+    "category": "gas-fluids",
+    "categoryLabel": "Gas & Fluids",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-120",
+    "image": "assets/images/products/gas-fluids/ventti-universal-gas-refill.webp",
+    "description": "Ventti Universal Gas Refill is presented for approved wholesale gas and fluid enquiries.",
+    "featured": false
+  },
+  {
+    "id": "gas-fluids-zengaz-gas",
+    "name": "Zengaz Gas",
+    "brand": "Zengaz",
+    "category": "gas-fluids",
+    "categoryLabel": "Gas & Fluids",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-121",
+    "image": "assets/images/products/gas-fluids/zengaz-gas-18ml-25pk.webp",
+    "description": "Zengaz Gas is presented for approved wholesale gas and fluid enquiries.",
+    "featured": false
+  },
+  {
+    "id": "gas-fluids-zippo-fluid",
+    "name": "Zippo Fluid",
+    "brand": "Zippo",
+    "category": "gas-fluids",
+    "categoryLabel": "Gas & Fluids",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-122",
+    "image": "assets/images/products/gas-fluids/zippo-fluid-125ml-24-pack.webp",
+    "description": "Zippo Fluid is presented for approved wholesale gas and fluid enquiries.",
+    "featured": false
+  },
+  {
+    "id": "receipt-rolls-thermal-paper-rolls",
+    "name": "Thermal Paper Rolls",
+    "brand": "Generic",
+    "category": "receipt-rolls",
+    "categoryLabel": "Receipt Rolls",
+    "packSize": "Wholesale catalogue item",
+    "sku": "CAT-123",
+    "image": "assets/images/products/receipt-rolls/thermal-paper-rolls-80x80mm.webp",
+    "description": "Thermal Paper Rolls are presented for approved wholesale receipt roll enquiries.",
+    "featured": true
+  },
+  {
+    "id": "lighters-bic-lighter-display-range",
+    "name": "BIC Lighter Display Range",
+    "brand": "BIC",
+    "category": "lighters",
+    "categoryLabel": "Lighters",
+    "packSize": "Wholesale display",
+    "sku": "CAT-124",
+    "image": "assets/images/products/lighters/bic-lighter-display-range.png",
+    "description": "BIC Lighter Display Range is presented for approved wholesale lighter enquiries.",
+    "featured": false
   }
 ];
+
